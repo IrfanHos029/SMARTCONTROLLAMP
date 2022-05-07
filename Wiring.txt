@@ -1,0 +1,8 @@
+relay 1 = GPO2
+relay 2 = GPO4
+relay 3 = GPO5
+relay 4 = GPO14
+indikator 1 = GPO13
+indikator 2 = GPO16
+NO CONNECT = GPO12 -> 23 (NO PCB)
+CONNECT = GPO14 -> 24 (NO PCB)

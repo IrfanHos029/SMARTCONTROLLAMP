@@ -1,0 +1,17 @@
+LED RGB WS2812 144LED/1M (2 ROL)       = 400.000
+CONTROLLER ESP8266 + PCB               = 100.000
+BUCK CONVERTER 5A                      = 50.000
+DUDUKAN MIKA PANEL                     = 40.000
+---------------------------------------------------- +
+TOTAL		                	 990.000
+
+
+
+LED RGB WS2812 144LED/1M (2 ROL)	 = 400.000
+CONTROLLER ESP8266 + PCB     	         = 100.000
+BUCK CONVERTER 5A          	         = 50.000
+DUDUKAN MIKA PANEL              	 = 40.000
+MODUL BLUETOOTH	           	         = 50.000
+CONVERTER MODUL BLUETOOTH TO CONTROLLER  = 40.000
+---------------------------------------------------- +
+TOTAL			                   1.080.000
