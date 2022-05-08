@@ -34,7 +34,7 @@ BLYNK_WRITE(V0)
 
 void setup() {
   WiFi.mode(WIFI_STA);
-  Serial.begin(9600);
+  Serial.begin(115200);
   pinMode(indikator_1, OUTPUT);
   pinMode(indikator_2, OUTPUT);
   pinMode(D6, INPUT);
@@ -100,7 +100,7 @@ void warningIndikator() {
     counterWIFI++;
   }
   //Serial.println(counterWIFI);
-  if (counterWIFI >= 20) {
+  if (counterWIFI >= 300  ) {
     ESP.restart();
   }
 }
